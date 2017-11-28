@@ -4,7 +4,7 @@ https://github.com/jakevdp/WhirlwindTourOfPython
 
 https://github.com/jakevdp/PythonDataScienceHandbook
 
-#### The books (PDF):
+#### The books (pdf):
 
 http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp
 
