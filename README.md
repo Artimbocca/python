@@ -12,4 +12,4 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 
 #### Suggestions for exercises:
 
-[exercises1](https://github.com/artimbocca/python/blob/master/exercises1.pdf)
+[exercises](https://github.com/artimbocca/python/blob/master/exercises.pdf)
