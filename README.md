@@ -9,3 +9,7 @@ https://github.com/jakevdp/PythonDataScienceHandbook
 http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp
 
 https://jakevdp.github.io/PythonDataScienceHandbook/
+
+#### Suggestions for exercises:
+
+https://github/artimbocca/python/exercises1.pdf
