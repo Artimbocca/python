@@ -12,4 +12,6 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 
 #### Suggestions for exercises:
 
-[exercises](https://github.com/artimbocca/python/blob/master/exercises.pdf)
+
+
+[exercises used in Google training (in 2010)](https://github.com/artimbocca/python/blob/master/exercises.pdf)
