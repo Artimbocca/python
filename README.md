@@ -1,5 +1,7 @@
 #### The notebooks:  
 
+[Introduction](https://github.com/artimbocca/python/blob/master/Intro.ipynb)
+
 https://github.com/jakevdp/WhirlwindTourOfPython
 
 https://github.com/jakevdp/PythonDataScienceHandbook
@@ -10,8 +12,8 @@ http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp
 
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
-#### Suggestions for exercises:
+#### Some forther notes on the tools and the exercises
 
+Clone or download this repository for exercises and their solutions.
 
-
-[exercises used in Google training (in 2010)](https://github.com/artimbocca/python/blob/master/exercises.pdf)
+[Some notes on the tools and the exercises](https://github.com/artimbocca/python/blob/master/exercises.pdf)
