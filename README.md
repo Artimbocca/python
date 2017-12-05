@@ -16,4 +16,4 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 
 Clone or download this repository for exercises and their solutions.
 
-[Some notes on the tools and the exercises](https://github.com/artimbocca/python/blob/master/exercises.pdf)
+[Notes on the tools and the exercises](https://github.com/artimbocca/python/blob/master/exercises.pdf)
