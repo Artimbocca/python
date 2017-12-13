@@ -12,8 +12,7 @@ http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp
 
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
-#### Some forther notes on the tools and the exercises
+#### Some notes on the tools and the exercises
 
-Clone or download this repository for exercises and their solutions.
 
-[Notes on the tools and the exercises](https://github.com/artimbocca/python/blob/master/exercises.pdf)
+[Notes on the tools and the exercises](https://github.com/artimbocca/python/blob/master/instructions.pdf)
