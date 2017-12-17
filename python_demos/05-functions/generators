@@ -1,0 +1,42 @@
+def generator(n):
+    for i in range(n):
+        yield i * i
+
+
+# or the equivalent generator expression (genexp)
+def gen_exp(n):
+    return (i * i for i in range(n))
+
+
+# custom iterator:
+class Squares(object):
+    def __init__(self, n):
+        self.start = 0
+        self.stop = n
+
+    def __iter__(self): return self
+
+    def __next__(self):
+        if self.start >= self.stop:
+            raise StopIteration
+        current = self.start * self.start
+        self.start += 1
+        return current
+
+    def current(self):
+        return self.start
+
+
+def gen(n):
+    def run(g):
+        print(g)
+        for sq in g(n):
+            print(sq)
+
+    run(generator)
+    run(Squares)
+    run(gen_exp)
+
+
+if __name__ == "__main__":
+    gen(19)

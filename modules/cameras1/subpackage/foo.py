@@ -1,1 +1,0 @@
-from ..sub2 import foo2
