@@ -2,9 +2,9 @@
 
 [Introduction](https://github.com/artimbocca/python/blob/master/Intro.ipynb)
 
-https://github.com/jakevdp/WhirlwindTourOfPython [pdf](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp)
+https://github.com/jakevdp/WhirlwindTourOfPython or [**pdf**](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp)
 
-https://github.com/jakevdp/PythonDataScienceHandbook [pdf](https://jakevdp.github.io/PythonDataScienceHandbook/)
+https://github.com/jakevdp/PythonDataScienceHandbook or [**pdf**](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Whirlwind notebook, edited version as used in lectures](https://github.com/artimbocca/python/blob/master/Whirlwind)
 
@@ -12,8 +12,9 @@ https://github.com/jakevdp/PythonDataScienceHandbook [pdf](https://jakevdp.githu
 
 [Slides](https://github.com/artimbocca/python/blob/master/PRG400-short.pdf)
 
-[Demos](https://github.com/artimbocca/python/blob/master/python-demos)
+[Demos](https://github.com/artimbocca/python/blob/master/demos)
 
 [A collection of exercises](https://github.com/artimbocca/python/blob/master/exercises)
 
 [Notes on the tools and the exercises](https://github.com/artimbocca/python/blob/master/instructions.pdf)
+
